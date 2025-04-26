@@ -1,0 +1,1 @@
+BACKEND_API_TOKEN = "secret_token_for_auth"
